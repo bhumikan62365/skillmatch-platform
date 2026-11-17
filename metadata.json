@@ -1,0 +1,6 @@
+{
+  "name": "Skill-to-Job Intelligence Platform",
+  "description": "AI-powered employability and placement intelligence platform connecting student skills, projects, and resumes with industry job requirements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
